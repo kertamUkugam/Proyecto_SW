@@ -18,7 +18,7 @@
     }
 
     function pedirDatos() {
-        XMLHttpRequestObject.open("POST", "verPreguntas.php", true);
+        XMLHttpRequestObject.open("POST", "VerPreguntas.php", true);
         XMLHttpRequestObject.send();
 
     }
