@@ -23,9 +23,6 @@
         <input type="submit" value="Modificar"/>
 </form>
 
-<div id="txtHint">
-</div>
-
 
 
 <?php
