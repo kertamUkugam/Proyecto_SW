@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<form method="POST" id="editar" action="Revisar.php">
+<form method="POST" id="editar" action="EditarPreguntas.php">
     <h2>Modifique la pregunta deseada </h2>
     <p> Codigo  : <input type="text" required name="codigo" value="" />
     <p> Pregunta : <input type="text" required name="pregunta"  value="" />
